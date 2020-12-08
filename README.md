@@ -37,3 +37,8 @@
 [![Ghost-Engine](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Hazel](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### ✨ <ins>Other:</ins>
+
+- [My Sims 4 mods](https://modthesims.info/m/8469309)
+- [My SourceScript mods](https://github.com/CybernetHacker14/SourceScripts)

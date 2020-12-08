@@ -28,7 +28,7 @@
 
 ### :octocat: <ins>Github:</ins>
 
-![Ujjwal's GitHub stats](https://github-readme-stats.cybernethacker14.vercel.app?username=CybernetHacker14&show_icons=true&count_private=true&theme=radical)
+![Ujjwal's GitHub stats](https://github-readme-stats.cybernethacker14.vercel.app?/username=CybernetHacker14&show_icons=true&count_private=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.cybernethacker14.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

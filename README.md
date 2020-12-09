@@ -30,13 +30,13 @@
 
 ![Ujjwal's GitHub stats](https://github-readme-stats.cybernethacker14.vercel.app/api?username=CybernetHacker14&show_icons=true&count_private=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.cybernethacker14.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.cybernethacker14.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&theme=radical)
 
 ### ⭐ <ins>Favourite Projects:</ins>
 
-[![Ghost-Engine](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Ghost-Engine](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical)](https://github.com/CybernetHacker14/Ghost-Engine) 
 
-[![Hazel](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hazel](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical)](https://github.com/CybernetHacker14/Hazel)
 
 ### ✨ <ins>Other:</ins>
 

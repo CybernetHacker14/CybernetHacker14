@@ -12,10 +12,9 @@
 <a href="mailto:ujjwalraut.14@gmail.com">
   <img align="center" alt="UjjwalRaut|Gmail" width="30px" src="images/gmail.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discordapp.com/users/428766481103323136/">
+<a href="CybernetHacker14#1420">
   <img align="center" alt="UjjwalRaut|Discord" width="30px" src="images/discord.png"/>
 </a>
-<br/>
 
 ***
 

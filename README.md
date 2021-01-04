@@ -1,5 +1,6 @@
 # 😃 Hello, I'm Ujjwal Raut 👋
 
+<p>
 <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
   <img align="center" alt="UjjwalRaut|LinkedIn" width="30px" src="images/linkedin.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,7 +14,7 @@
   <img align="center" alt="UjjwalRaut|Gmail" width="30px" src="images/gmail.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a onmouseover = "CybernetHacker14#1420">
-  <img align="center" alt="UjjwalRaut|Discord" width="30px" src="images/discord.png" title="CybernetHacker14#1420"/>
+  <img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="30px" src="images/discord.png"/>
 </a>
 <br/>
 

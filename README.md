@@ -46,12 +46,19 @@
 
 ### :octocat: <ins>Github:</ins>
 
-![Ujjwal's GitHub stats](https://github-readme-stats.cybernethacker14.vercel.app/api?username=CybernetHacker14&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.cybernethacker14.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&theme=radical)
+<p align = "left">
+<a href = "https://github.com/CybernetHacker14">
+  <img width = "500em" height = "200em" src = "https://github-readme-stats.cybernethacker14.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
+  <img width = "500em" height = "200em" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 ### ✨ <ins>Favourite Projects:</ins>
 
-[![Ghost-Engine](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical)](https://github.com/CybernetHacker14/Ghost-Engine) 
-
-[![Hazel](https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical)](https://github.com/CybernetHacker14/Hazel)
+<a href = "https://github.com/CybernetHacker14/Ghost-Engine">
+  <img width = "500em" height = "200px" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical"/>
+</a>
+<br/>
+<a href = "https://github.com/CybernetHacker14/Hazel">
+  <img width = "500em" height = "200px" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical"/>
+</a>

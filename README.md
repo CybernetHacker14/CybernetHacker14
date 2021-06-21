@@ -18,7 +18,7 @@
 
 ***
 
-## 🏢 I'm a Lead Programmer at [GameEon Studios](https://gameeon.in/), a creative game development and publishing company based in Mumbai, India.
+## 🏢 I'm a Senior Programmer at [GameEon Studios](https://gameeon.in/), a creative game development and publishing company based in Mumbai, India.
 
 ***
 

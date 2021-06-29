@@ -24,7 +24,7 @@
 
 ### 👔 <ins>About Me:</ins>
 
-- 🔭 I'm currently working on [Sentinel-Engine](https://github.com/CybernetHacker14/Sentinel) and [Ghost-Engine](https://github.com/CybernetHacker14/Ghost-Engine)
+- 🔭 I'm currently working on [Sentinel](https://github.com/CybernetHacker14/Sentinel) and [Ghost-Engine](https://github.com/CybernetHacker14/Ghost-Engine)
 - 🌱 I'm currently practising C++, OpenGL and game engine programming
 - 💻 Interested in game development, graphics and game engine programming as well as modding
 - 🔷 My Sims 4 [mods](https://modthesims.info/m/8469309)

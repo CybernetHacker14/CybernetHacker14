@@ -53,6 +53,10 @@
 </a>
 </p>
 
+<p align = "center">
+   <img alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=CybernetHacker14&theme=darcula&hide_border=true"/>
+</p>
+
 ### ✨ <ins>Favourite Projects:</ins>
 
 <a href = "https://github.com/CybernetHacker14/Ghost-Engine">

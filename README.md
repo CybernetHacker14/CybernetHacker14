@@ -55,6 +55,7 @@
 ### 🔧 <ins>Languages and Tools:</ins>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
 <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/c++.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,6 +65,7 @@
 <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align = "left">
   <br/>

@@ -54,8 +54,8 @@
 
 ### 🔧 <ins>Languages and Tools:</ins>
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/c++.png"/>&nbsp;&nbsp;&nbsp;&nbsp;

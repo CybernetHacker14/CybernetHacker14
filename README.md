@@ -1,8 +1,11 @@
 <h1>
 <p align = "center">
-  😃 Hello, I'm Ujjwal Raut 👋
+  😃 Hello, I'm Ujjwal Raut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </p>
 </h1>
+<p align = "center">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Senior+Programmer+at+GameEon+Studios;2%2B+years+of+experience">
+</p>
 
 <p align = center>
 <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
@@ -85,3 +88,13 @@
 <a href = "https://github.com/CybernetHacker14/Hazel">
   <img width = "500em" height = "200px" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical"/>
 </a>
+
+***
+
+### :thought_balloon: <ins>Random quote:</ins>
+
+```
+Insurrection is the most sacred of the rights and the most indispensable of duties
+
+-Marquis de La Fayette
+```

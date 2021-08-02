@@ -47,11 +47,13 @@
   </a>
 </p>
 
+<!--
 <p align = "left">
   <a href = "https://github.com/CybernetHacker14">
     <img width = "500em" height = "200em" src="http://github-readme-streak-stats.herokuapp.com?user=CybernetHacker14&theme=radical&hide_border=false"/>
   </a>
 </p>
+-->
 
 ***
 

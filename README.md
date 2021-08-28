@@ -32,10 +32,9 @@
 ### 👔 <ins>About Me:</ins>
 
 - 🔭 I'm currently working on [Sentinel](https://github.com/CybernetHacker14/Sentinel) and [Ghost-Engine](https://github.com/CybernetHacker14/Ghost-Engine)
-- 🌱 I'm currently practising C++, OpenGL and game engine programming
+- 🌱 I'm currently practising C++, DirectX 11 and game engine programming
 - 💻 Interested in game development, graphics and game engine programming as well as modding
-- 🔷 My Sims 4 [mods](https://modthesims.info/m/8469309)
-- 🔫 My Counter Strike : Global Offensive SourceMod [scripts](https://github.com/CybernetHacker14/SourceScripts)
+- :video_game: Check out my personal video game mods [here](https://github.com/CybernetHacker14/game-mods)
 
 ***
 

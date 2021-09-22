@@ -4,7 +4,7 @@
 </p>
 </h1>
 <p align = "center">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Senior+Programmer+at+GameEon+Studios;2%2B+years+of+experience">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+Programmer+at+Photon+Tadpole+Studios;2%2B+years+of+experience">
 </p>
 
 <p align = center>
@@ -25,7 +25,7 @@
 
 ***
 
-## 🏢 I'm a Senior Programmer at [GameEon Studios](https://gameeon.in/), a creative game development and publishing company based in Mumbai, India.
+## 🏢 I'm a Game Programmer at [Photon Tadpole Studios](https://photontadpole.com/), a creative game development and publishing company based in Mumbai, India.
 
 ***
 

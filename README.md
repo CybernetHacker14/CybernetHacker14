@@ -25,7 +25,7 @@
 
 ***
 
-## 🏢 I'm a Game Programmer at [Photon Tadpole Studios](https://photontadpole.com/), a creative game development and publishing company based in Mumbai, India.
+## 🏢 I'm a Game Programmer at [Photon Tadpole Studios](https://photontadpole.com/), a creative game development company situated in Mumbai, India.
 
 ***
 

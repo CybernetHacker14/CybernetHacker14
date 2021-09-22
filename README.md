@@ -42,7 +42,7 @@
 <br/>
 <p align = "left">
   <a href = "https://github.com/CybernetHacker14">
-    <img width = "500em" height = "200em" src = "cybernethacker14-github-readme-stats.vercel.app?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
+    <img width = "500em" height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 <p align = "left">
   <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/CybernetHacker14">
-    <img height = "200em" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical"/>
+    <img height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 
@@ -83,11 +83,11 @@
 ### ✨ <ins>Favourite Projects:</ins>
 <br/>
 <a href = "https://github.com/CybernetHacker14/Ghost-Engine">
-  <img width = "500px" height = "200px" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical"/>
+  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical"/>
 </a>
 <br/>
 <a href = "https://github.com/CybernetHacker14/Hazel">
-  <img width = "500em" height = "200px" src = "https://github-readme-stats.cybernethacker14.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical"/>
+  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Hazel&theme=radical"/>
 </a>
 
 ***

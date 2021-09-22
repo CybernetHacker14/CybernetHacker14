@@ -42,7 +42,7 @@
 <br/>
 <p align = "left">
   <a href = "https://github.com/CybernetHacker14">
-    <img width = "500em" height = "200em" src = "https://github-readme-stats.cybernethacker14.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
+    <img width = "500em" height = "200em" src = "cybernethacker14-github-readme-stats.vercel.app?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
   </a>
 </p>
 

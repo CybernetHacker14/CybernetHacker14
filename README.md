@@ -95,7 +95,7 @@
 ### :thought_balloon: <ins>Random quote:</ins>
 
 ```
-Insurrection is the most sacred of the rights and the most indispensable of duties
+Life's hardest choices are the ones that force you to question your own moral code
 
--Marquis de La Fayette
+-Shay Patrick Cormac
 ```

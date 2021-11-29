@@ -99,7 +99,7 @@
 ### :thought_balloon: <ins>Random quote:</ins>
 
 ```
-Life's hardest choices are the ones that force you to question your own moral code
+War. War never changes.
 
--Shay Patrick Cormac
+-Fallout narrator
 ```

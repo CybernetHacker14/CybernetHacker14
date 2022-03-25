@@ -4,7 +4,7 @@
 </p>
 </h1>
 <p align = "center">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+Programmer+at+Photon+Tadpole+Studios;2%2B+years+of+experience">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+Programmer+at+Sony+India;2%2B+years+of+experience">
 </p>
 
 <p align = center>

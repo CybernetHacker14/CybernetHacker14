@@ -25,7 +25,7 @@
 
 ***
 
-## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), currently residing in Bengaluru, Karnataka, India.
+## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), working with engineers on next generation technologies.
 
 ***
 

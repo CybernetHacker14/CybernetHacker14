@@ -4,7 +4,7 @@
 </p>
 </h1>
 <p align = "center">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Game+Programmer+at+Sony+India;2%2B+years+of+experience">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Graphics+Programmer+at+Sony+India;2%2B+years+of+experience">
 </p>
 
 <p align = center>
@@ -25,7 +25,7 @@
 
 ***
 
-## 🏢 I'm a Game Programmer at [Photon Tadpole Studios](https://photontadpole.com/), a creative game development company situated in Mumbai, India.
+## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), a creative game development company situated in Mumbai, India.
 
 ***
 

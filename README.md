@@ -25,7 +25,7 @@
 
 ***
 
-## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), a creative game development company situated in Mumbai, India.
+## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), currently residing in Bengaluru, Karnataka, India.
 
 ***
 

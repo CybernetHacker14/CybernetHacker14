@@ -99,7 +99,7 @@
 ### :thought_balloon: <ins>Random quote:</ins>
 
 ```
-War. War never changes.
+What is better? To be born good or to overcome your evil nature through great effort?
 
--Fallout narrator
+- Paarthurnax, Skyrim
 ```

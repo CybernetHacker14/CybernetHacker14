@@ -53,7 +53,6 @@
 ### 🔧 <ins>Languages and Tools:</ins>
 <br/>
 <p>
-
 <table>
   <tr>
     <th><center>Programs</center></th>
@@ -87,6 +86,7 @@
     <td>
       <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|GitLab" width="40px" src="images/gitlab.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>

@@ -51,7 +51,7 @@
 
 ***
 
-### 🔧 <ins>Languages and Tools:</ins>
+### 🔧 <ins>Skills:</ins>
 <br/>
 <p>
 <table>

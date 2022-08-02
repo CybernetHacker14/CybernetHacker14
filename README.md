@@ -9,18 +9,18 @@
 
 <p align = center>
 <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
-  <img align="center" alt="UjjwalRaut|LinkedIn" width="30px" src="images/linkedin.png" />
+  <img align="center" alt="UjjwalRaut|LinkedIn" width="40px" src="images/linkedin.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/CybernetHacker14/">
-  <img align="center" alt="UjjwalRaut|GitHub" width="30px" src="images/github.png" />
+  <img align="center" alt="UjjwalRaut|GitHub" width="40px" src="images/github.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cybernethacker14.artstation.com/">
-  <img align="center" alt="UjjwalRaut|ArtStation" width="30px" src="images/artstation.png" />
+  <img align="center" alt="UjjwalRaut|ArtStation" width="40px" src="images/artstation.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ujjwalraut.14@gmail.com">
-  <img align="center" alt="UjjwalRaut|Gmail" width="30px" src="images/gmail.png" />
+  <img align="center" alt="UjjwalRaut|Gmail" width="40px" src="images/gmail.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="30px" src="images/discord.png" />
+<img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="40px" src="images/discord.png" />
 <br/>
 
 ***

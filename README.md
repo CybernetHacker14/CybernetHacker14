@@ -58,36 +58,36 @@
   <tr>
     <th><center>Programs</center></th>
     <td>
-      <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|UE" width="40px" src="images/ue.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|UE" width="40px" src="images/ue.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <th><center>Languages</center></th>
     <td>
-      <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/cpp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|C" width="40px" src="images/c.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Lua" width="40px" src="images/lua.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/cpp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|C" width="40px" src="images/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Lua" width="40px" src="images/lua.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <th><center>APIs</center></th>
     <td>
-      <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <th><center>Utilities</center></th>
     <td>
-      <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|GitLab" width="40px" src="images/gitlab.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|GitLab" width="40px" src="images/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>

@@ -22,6 +22,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="40px" src="images/discord.png" />
 <br/>
+</p>
 
 ***
 

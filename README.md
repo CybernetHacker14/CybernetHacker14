@@ -56,7 +56,7 @@
 
 <table>
   <tr>
-    <th><center><h2>Programs</h2></center></th>
+    <th><center><font size=3>Programs</font></center></th>
     <td>
       <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" alt="UjjwalRaut|UE" width="40px" src="images/ue.png" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <th><center><h2>Languages</h2></center></th>
+    <th><center><font size=3>Languages</font></center></th>
     <td>
       <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/cpp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,14 +76,14 @@
     </td>
   </tr>
   <tr>
-    <th><center><h2>APIs</h2></center></th>
+    <th><center><font size=3>APIs</font></center></th>
     <td>
       <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
-    <th><center><h2>Utilities</h2></center></th>
+    <th><center><font size=3>Utilities</font></center></th>
     <td>
       <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png" />&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png" />&nbsp;&nbsp;&nbsp;&nbsp;

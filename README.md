@@ -46,21 +46,50 @@
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CybernetHacker14&theme=radical)](https://github.com/CybernetHacker14)
+
 ***
 
 ### 🔧 <ins>Languages and Tools:</ins>
 <br/>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|C++" width="40px" src="images/c++.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+<table>
+  <tr>
+    <th><center><h2>Programs</h2></center></th>
+    <td>
+      <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|UE" width="40px" src="images/ue.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <th><center><h2>Languages</h2></center></th>
+    <td>
+      <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/cpp.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|C" width="40px" src="images/c.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Lua" width="40px" src="images/lua.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <th><center><h2>APIs</h2></center></th>
+    <td>
+      <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <th><center><h2>Utilities</h2></center></th>
+    <td>
+      <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+</table>
 </p>
 
 <p align = "left">

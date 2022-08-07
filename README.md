@@ -12,7 +12,7 @@
       </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
-        <img align="center" alt="UjjwalRaut|LinkedIn" width="40px" src="images/linkedin.gif" />
+        <img align="center" alt="UjjwalRaut|LinkedIn" width="45px" src="images/linkedin.gif" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/CybernetHacker14/">
         <img align="center" alt="UjjwalRaut|GitHub" width="40px" src="images/github.png" />
@@ -23,7 +23,7 @@
       <a href="mailto:ujjwalraut.14@gmail.com">
         <img align="center" alt="UjjwalRaut|Gmail" width="40px" src="images/gmail.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="40px" src="images/discord.png" />
+      <img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="46px" src="images/discord.gif" />
       </p>
     </td>
   </tr>

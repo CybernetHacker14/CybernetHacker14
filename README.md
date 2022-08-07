@@ -12,7 +12,7 @@
       </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
-        <img align="center" alt="UjjwalRaut|LinkedIn" width="40px" src="images/linkedin.png" />
+        <img align="center" alt="UjjwalRaut|LinkedIn" width="40px" src="images/linkedin.gif" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/CybernetHacker14/">
         <img align="center" alt="UjjwalRaut|GitHub" width="40px" src="images/github.png" />
@@ -29,24 +29,30 @@
   </tr>
 </table>
 
----
-
-<br/>
+<img src="images/line.gif">
 
 ## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), working with engineers on next generation technologies.
 
----
+<img src="images/line.gif">
 
 ### 👔 <ins>About Me:</ins>
 
-- 🔭 I'm currently working on [Sentinel](https://github.com/CybernetHacker14/Sentinel) and [Ghost-Engine](https://github.com/CybernetHacker14/Ghost-Engine)
-- 🌱 I'm currently practising C++, DirectX 11 and game engine programming
-- 💻 Interested in game development, graphics and game engine programming as well as modding
-- :video_game: Check out my personal video game mods [here](https://github.com/CybernetHacker14/game-mods)
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 Currently working on <a href="https://github.com/CybernetHacker14/Sentinel">Sentinel</a> and <a href="https://github.com/CybernetHacker14/PACT">P.A.C.T.</a></li>
+        <li>🌱 I'm currently practising C++, DirectX 11 and game engine programming</li>
+        <li>💻 Interested in game development, graphics and game engine programming as well as modding</li>
+        <li>:video_game: Check out my personal video game mods [here](https://github.com/CybernetHacker14/game-mods)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<img src="images/line.gif">
 
-### :octocat: <ins>Github:</ins>
+### <img src="images/stats.gif" width="25px" height="20px"> <ins>Github:</ins>
 
 <br/>
 <table>
@@ -61,14 +67,14 @@
     <td>
       <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
-          <img width = "500em" height = "200em" src = "https://github-profile-trophy.vercel.app/?username=CybernetHacker14&theme=radical&column=4"/>
+          <img width = "500em" height = "300em" src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical&column=4"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<img src="images/line.gif">
 
 ### 🔧 <ins>Skills:</ins>
 
@@ -120,7 +126,7 @@
   </a>
 </p>
 
----
+<img src="images/line.gif">
 
 ### ✨ <ins>Favourite Projects:</ins>
 
@@ -137,12 +143,12 @@
   <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=PACT&theme=radical"/>
 </a>
 
----
+<img src="images/line.gif">
 
 ### :thought_balloon: <ins>Random quote:</ins>
 
 ```
-What is better? To be born good or to overcome your evil nature through great effort?
+All that we do, all that we are, begins and ends with ourselves
 
-- Paarthurnax, Skyrim
+- Arno Victor Dorian, Assassin's Creed Unity
 ```

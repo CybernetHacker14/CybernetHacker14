@@ -54,7 +54,6 @@
 
 ### <img src="images/stats.gif" width="25px" height="20px"> <ins>Github:</ins>
 
-<br/>
 <table>
   <tr>
     <td>

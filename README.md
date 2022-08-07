@@ -52,17 +52,19 @@
 
 <img src="images/line.gif">
 
-### <img src="images/stats.gif" width="25px" height="20px"> <ins>Github:</ins>
+### <img src="images/stats.gif" width="25px" height="20px"> <ins>Github Stats:</ins>
 
 <table>
   <tr>
-    <td>
-      <p align = "left">
+    <td colspan=2>
+      <p align = "center">
         <a href = "https://github.com/CybernetHacker14">
           <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybernetHacker14&theme=radical"/>
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td>
       <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
@@ -70,12 +72,10 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan=2>
+    <td>
       <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
-          <img src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical&column=12"/>
+          <img src = "https://github-profile-trophy.vercel.app/?username=CybernetHacker14&theme=radical&column=4"/>
         </a>
       </p>
     </td>

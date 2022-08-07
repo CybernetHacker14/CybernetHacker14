@@ -1,34 +1,41 @@
-<h1>
-<p align = "center">
-  😃 Hello, I'm Ujjwal Raut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</p>
-</h1>
-<p align = "center">
-  <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Graphics+Programmer+at+Sony+India;3+years+of+experience">
-</p>
+<table>
+  <tr>
+    <td><img align="left" src="images/hello-there.gif" /></td>
+    <td>
+      <h1>
+      <p align = "center">
+      😃 Hello, I'm Ujjwal Raut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      </p>
+      </h1>
+      <p align = "center">
+        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Graphics+Programmer+at+Sony+India;3+years+of+experience">
+      </p>
+      <p align = "center">
+      <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
+        <img align="center" alt="UjjwalRaut|LinkedIn" width="40px" src="images/linkedin.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/CybernetHacker14/">
+        <img align="center" alt="UjjwalRaut|GitHub" width="40px" src="images/github.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://cybernethacker14.artstation.com/">
+        <img align="center" alt="UjjwalRaut|ArtStation" width="40px" src="images/artstation.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:ujjwalraut.14@gmail.com">
+        <img align="center" alt="UjjwalRaut|Gmail" width="40px" src="images/gmail.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="40px" src="images/discord.png" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align = center>
-<a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
-  <img align="center" alt="UjjwalRaut|LinkedIn" width="40px" src="images/linkedin.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/CybernetHacker14/">
-  <img align="center" alt="UjjwalRaut|GitHub" width="40px" src="images/github.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cybernethacker14.artstation.com/">
-  <img align="center" alt="UjjwalRaut|ArtStation" width="40px" src="images/artstation.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ujjwalraut.14@gmail.com">
-  <img align="center" alt="UjjwalRaut|Gmail" width="40px" src="images/gmail.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" title="CybernetHacker14#1420" alt="UjjwalRaut|Discord" width="40px" src="images/discord.png" />
+---
+
 <br/>
-</p>
-
-***
 
 ## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), working with engineers on next generation technologies.
 
-***
+---
 
 ### 👔 <ins>About Me:</ins>
 
@@ -37,21 +44,34 @@
 - 💻 Interested in game development, graphics and game engine programming as well as modding
 - :video_game: Check out my personal video game mods [here](https://github.com/CybernetHacker14/game-mods)
 
-***
+---
 
 ### :octocat: <ins>Github:</ins>
+
 <br/>
-<p align = "left">
-  <a href = "https://github.com/CybernetHacker14">
-    <img width = "500em" height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align = "left">
+        <a href = "https://github.com/CybernetHacker14">
+          <img width = "500em" height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align = "left">
+        <a href = "https://github.com/CybernetHacker14">
+          <img width = "500em" height = "200em" src = "https://github-profile-trophy.vercel.app/?username=CybernetHacker14&theme=radical&column=4"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CybernetHacker14&theme=radical)](https://github.com/CybernetHacker14)
-
-***
+---
 
 ### 🔧 <ins>Skills:</ins>
+
 <br/>
 <p>
 <table>
@@ -100,9 +120,10 @@
   </a>
 </p>
 
-***
+---
 
 ### ✨ <ins>Favourite Projects:</ins>
+
 <br/>
 <a href = "https://github.com/CybernetHacker14/Sentinel">
   <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Sentinel&theme=radical"/>
@@ -116,7 +137,7 @@
   <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=PACT&theme=radical"/>
 </a>
 
-***
+---
 
 ### :thought_balloon: <ins>Random quote:</ins>
 

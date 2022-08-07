@@ -60,14 +60,23 @@
     <td>
       <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
-          <img width = "500em" height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical"/>
+          <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybernetHacker14&theme=radical"/>
         </a>
       </p>
     </td>
     <td>
       <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
-          <img width = "500em" height = "300em" src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical&column=4"/>
+          <img src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <p align = "left">
+        <a href = "https://github.com/CybernetHacker14">
+          <img src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical&column=12"/>
         </a>
       </p>
     </td>

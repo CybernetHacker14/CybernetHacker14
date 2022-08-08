@@ -56,26 +56,26 @@
 
 <table>
   <tr>
-    <td colspan=2>
-      <p align = "center">
+    <td>
+      <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
           <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybernetHacker14&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td rowspan=2>
+      <p align = "left">
+        <a href = "https://github.com/CybernetHacker14">
+          <img src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical&column=2"/>
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
-      <p align = "left">
+      <p align = "center">
         <a href = "https://github.com/CybernetHacker14">
           <img src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align = "left">
-        <a href = "https://github.com/CybernetHacker14">
-          <img src = "https://github-profile-trophy.vercel.app/?username=CybernetHacker14&theme=radical&column=4"/>
         </a>
       </p>
     </td>
@@ -86,53 +86,61 @@
 
 ### 🔧 <ins>Skills:</ins>
 
-<br/>
-<p>
 <table>
   <tr>
-    <th><center>Programs</center></th>
     <td>
-      <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|UE" width="40px" src="images/ue.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <p>
+      <table>
+        <tr>
+          <th><center>Programs</center></th>
+          <td>
+            <img align="center" alt="UjjwalRaut|Unity" width="40px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|UE" width="40px" src="images/ue.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+        <tr>
+          <th><center>Languages</center></th>
+          <td>
+            <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/cpp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|C" width="40px" src="images/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|Lua" width="40px" src="images/lua.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+        <tr>
+          <th><center>APIs</center></th>
+          <td>
+            <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+        <tr>
+          <th><center>Utilities</center></th>
+          <td>
+            <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|GitLab" width="40px" src="images/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+          </td>
+        </tr>
+      </table>
+      </p>
     </td>
-  </tr>
-  <tr>
-    <th><center>Languages</center></th>
     <td>
-      <img align="center" alt="UjjwalRaut|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|C++" width="40px" src="images/cpp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|C" width="40px" src="images/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Lua" width="40px" src="images/lua.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <th><center>APIs</center></th>
-    <td>
-      <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <th><center>Utilities</center></th>
-    <td>
-      <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="UjjwalRaut|GitLab" width="40px" src="images/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <p align = "left">
+        <br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/CybernetHacker14">
+          <img height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
-</p>
 
-<p align = "left">
-  <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/CybernetHacker14">
-    <img height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
+
 
 <img src="images/line.gif">
 

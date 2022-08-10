@@ -52,7 +52,7 @@
 
 <img src="images/line.gif">
 
-### <img src="images/stats.gif" width="25px" height="20px"> <ins>Github Stats:</ins>
+### <img align = center src="images/profile.gif" width="25px" height="25px"> <ins>Github Info:</ins>
 
 <table>
   <tr>
@@ -63,19 +63,29 @@
         </a>
       </p>
     </td>
-    <td rowspan=2>
+  </tr>
+  <tr>
+    <td>
       <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
-          <img src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical&column=2"/>
+          <img src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical"/>
         </a>
       </p>
     </td>
   </tr>
+</table>
+
+<img src="images/line.gif">
+
+### <img align = center src="images/stats.gif" width="25px" height="25px"> <ins>Github Stats:</ins>
+
+<table>
   <tr>
     <td>
-      <p align = "center">
+      <p align = "left">
         <a href = "https://github.com/CybernetHacker14">
-          <img src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
+          <img align = center src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
+          <img align = center src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CybernetHacker14&theme=radical&utcOffset=5"/>
         </a>
       </p>
     </td>

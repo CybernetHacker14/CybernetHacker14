@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td>
-      <p align = "left">
+      <p align = "center">
         <a href = "https://github.com/CybernetHacker14">
           <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybernetHacker14&theme=radical"/>
         </a>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td>
-      <p align = "left">
+      <p align = "center">
         <a href = "https://github.com/CybernetHacker14">
           <img src = "https://github-trophies-wheat.vercel.app/?username=CybernetHacker14&theme=radical"/>
         </a>
@@ -79,18 +79,12 @@
 
 ### <img align = center src="images/stats.gif" width="25px" height="25px"> <ins>Github Stats:</ins>
 
-<table>
-  <tr>
-    <td>
-      <p align = "left">
-        <a href = "https://github.com/CybernetHacker14">
-          <img align = center src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
-          <img align = center src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CybernetHacker14&theme=radical&utcOffset=5"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align = "left">
+  <a href = "https://github.com/CybernetHacker14">
+    <img align = center src = "https://cybernethacker14-github-readme-stats.vercel.app/api?username=CybernetHacker14&show_icons=true&include_all_commit=true&count_private=true&theme=radical&hide_border=true"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align = center width = "100px" height = "100px" align = center src = "images/github.png"/>
+</p>
 
 <img src="images/line.gif">
 
@@ -140,17 +134,31 @@
       </p>
     </td>
     <td>
-      <p align = "left">
-        <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/CybernetHacker14">
-          <img height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical"/>
+      <br/>
+      <p align = "center">
+        <a href = "https://github.com/CybernetHacker14">
+          <img height = "200em" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/top-langs/?username=CybernetHacker14&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align = "center">
+        <a href = "https://github.com/CybernetHacker14">
+          <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CybernetHacker14&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align = "center">
+        <a href = "https://github.com/CybernetHacker14">
+          <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CybernetHacker14&theme=radical"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
-
-
 
 <img src="images/line.gif">
 

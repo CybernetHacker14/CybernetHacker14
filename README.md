@@ -164,22 +164,44 @@
 
 ### ✨ <ins>Favourite Projects:</ins>
 
-<br/>
-<a href = "https://github.com/CybernetHacker14/Sentinel">
-  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Sentinel&theme=radical"/>
-</a>
-<br/>
-<a href = "https://github.com/CybernetHacker14/Ghost-Engine">
-  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical"/>
-</a>
-<br/>
-<a href = "https://github.com/CybernetHacker14/PACT">
-  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=PACT&theme=radical"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <p align = center>
+        <a href = "https://github.com/CybernetHacker14/Sentinel">
+          <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Sentinel&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align = center>
+        <a href = "https://github.com/CybernetHacker14/PACT">
+          <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=PACT&theme=radical"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align = center>
+        <a href = "https://github.com/CybernetHacker14/Ghost-Engine">
+          <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align = center>
+        <a href = "https://github.com/CybernetHacker14/game-mods">
+        <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=game-mods&theme=radical"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="images/line.gif">
 
-### :thought_balloon: <ins>Random quote:</ins>
+### :thought_balloon: <ins>Random gaming quote:</ins>
 
 ```
 All that we do, all that we are, begins and ends with ourselves

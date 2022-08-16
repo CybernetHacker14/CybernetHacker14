@@ -162,7 +162,7 @@
 
 <img src="images/line.gif">
 
-### ✨ <ins>Favourite Projects:</ins>
+### ✨ <ins>Featured Projects:</ins>
 
 <table>
   <tr>

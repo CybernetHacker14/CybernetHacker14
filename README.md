@@ -204,7 +204,7 @@
 ### :thought_balloon: <ins>Random gaming quote:</ins>
 
 ```
-All that we do, all that we are, begins and ends with ourselves
+Wanting something does not give you the right to have it
 
-- Arno Victor Dorian, Assassin's Creed Unity
+- Ezio Auditore da Firenze, Assassin's Creed II
 ```

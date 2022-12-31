@@ -175,22 +175,6 @@
     </td>
     <td>
       <p align = center>
-        <a href = "https://github.com/CybernetHacker14/PACT">
-          <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=PACT&theme=radical"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align = center>
-        <a href = "https://github.com/CybernetHacker14/Ghost-Engine">
-          <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=Ghost-Engine&theme=radical"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align = center>
         <a href = "https://github.com/CybernetHacker14/game-mods">
         <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=CybernetHacker14&repo=game-mods&theme=radical"/>
         </a>

@@ -41,7 +41,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 Currently working on <a href="https://github.com/CybernetHacker14/Sentinel">Sentinel</a> and <a href="https://github.com/CybernetHacker14/PACT">P.A.C.T.</a></li>
+        <li>🔭 Currently working on <a href="https://github.com/CybernetHacker14/Sentinel">Sentinel Game Engine</a>
         <li>🌱 I'm currently practising C++, DirectX 11 and game engine programming</li>
         <li>💻 Interested in game development, graphics and game engine programming as well as modding</li>
         <li>:video_game: Check out my personal <a href="https://github.com/CybernetHacker14/game-mods">video game mods</a></li>

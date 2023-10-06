@@ -8,7 +8,7 @@
       </p>
       </h1>
       <p align = "center">
-        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Graphics+Programmer+at+Sony+India;3+years+of+experience">
+        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Graphics+Programmer+at+Sony+India;4+years+of+experience">
       </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">

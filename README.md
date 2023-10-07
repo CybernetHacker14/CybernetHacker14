@@ -188,7 +188,7 @@
 ### :thought_balloon: <ins>Random gaming quote:</ins>
 
 ```
-Wanting something does not give you the right to have it
+Life's hardest choices are the ones that force you to question your own moral code
 
-- Ezio Auditore da Firenze, Assassin's Creed II
+- Shay Cormac Patrick, Assassin's Creed Rogue
 ```

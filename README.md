@@ -42,7 +42,7 @@
     <td>
       <ul>
         <li>🔭 Currently working on <a href="https://github.com/CybernetHacker14/Sentinel">Sentinel Game Engine</a>
-        <li>🌱 I'm currently practising C++, DirectX 11 and game engine programming</li>
+        <li>🌱 I'm currently practising C, C++, DirectX 11, Vulkan and game engine programming</li>
         <li>💻 Interested in game development, graphics and game engine programming as well as modding</li>
         <li>:video_game: Check out my personal <a href="https://github.com/CybernetHacker14/game-mods">video game mods</a></li>
       </ul>
@@ -103,6 +103,7 @@
             <img align="center" alt="UjjwalRaut|VS" width="40px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UjjwalRaut|VSCode" width="40px" src="images/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UjjwalRaut|Blender" width="40px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|Inkscape" width="40px" src="images/inkscape.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
         <tr>

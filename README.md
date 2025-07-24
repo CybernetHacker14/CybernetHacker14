@@ -8,7 +8,7 @@
       </p>
       </h1>
       <p align = "center">
-        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Graphics+Programmer+at+Sony+India;4+years+of+experience">
+        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Junior+3D+Programmer+at+Ubisoft+Pune;6+years+of+experience">
       </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/ujjwal-raut-cybernethacker14/">
@@ -31,7 +31,7 @@
 
 <img src="images/line.gif">
 
-## 🏢 I'm a Graphics Programmer at [Sony India](https://www.sonyindiasoftware.co.in/), working with engineers on next generation technologies.
+## 🏢 I'm a Junior 3D Programmer at [Ubisoft Pune](https://www.ubisoft.com/en-us/company/careers/locations/india/), working on games in production.
 
 <img src="images/line.gif">
 
@@ -42,7 +42,7 @@
     <td>
       <ul>
         <li>🔭 Currently working on <a href="https://github.com/CybernetHacker14/Sentinel">Sentinel Game Engine</a>
-        <li>🌱 I'm currently practising C, C++, DirectX 11, Vulkan and game engine programming</li>
+        <li>🌱 I'm currently practising C, C++, DirectX 12, Vulkan and game engine programming</li>
         <li>💻 Interested in game development, graphics and game engine programming as well as modding</li>
         <li>:video_game: Check out my personal <a href="https://github.com/CybernetHacker14/game-mods">video game mods</a></li>
       </ul>
@@ -114,19 +114,23 @@
             <img align="center" alt="UjjwalRaut|C" width="40px" src="images/c.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UjjwalRaut|Python" width="40px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UjjwalRaut|Lua" width="40px" src="images/lua.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|MiniScript" width="40px" src="images/miniscript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
         <tr>
           <th><center>APIs</center></th>
           <td>
             <img align="center" alt="UjjwalRaut|OpenGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="UjjwalRaut|DX11" width="40px" src="images/dx11.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|D3D11" width="40px" src="images/dx11.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|Vulkan" width="40px" src="images/vulkan.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|D3D12" width="40px" src="images/dx12.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
         <tr>
           <th><center>Utilities</center></th>
           <td>
             <img align="center" alt="UjjwalRaut|Premake" width="40px" src="images/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="UjjwalRaut|CMake" width="40px" src="images/cmake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UjjwalRaut|Git" width="40px" src="images/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="UjjwalRaut|GitLab" width="40px" src="images/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
@@ -183,13 +187,3 @@
     </td>
   </tr>
 </table>
-
-<img src="images/line.gif">
-
-### :thought_balloon: <ins>Random gaming quote:</ins>
-
-```
-Life's hardest choices are the ones that force you to question your own moral code
-
-- Shay Cormac Patrick, Assassin's Creed Rogue
-```
